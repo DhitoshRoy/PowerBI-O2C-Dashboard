@@ -1,6 +1,5 @@
 # PowerBI-O2C-Dashboard
 Power BI dashboard for Order-to-Cash (O2C) analysis and SLA compliance monitoring.
-# Order-to-Cash (O2C) Dashboard
 
 ## Overview
 This Power BI dashboard analyzes Order-to-Cash performance using invoice and collection data.
